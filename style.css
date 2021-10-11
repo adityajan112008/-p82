@@ -1,0 +1,37 @@
+
+  body{
+    cursor: pointer;
+    background-image: linear-gradient(red,rgb(0, 255, 255),yellow,pink);
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: rgb(7, 7, 7); 
+      font-size: 40px;
+  font-family:'American Typewriter, serif';
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+ hr{
+    background-color: black;
+     width: 100;
+     margin-bottom: 50px;
+ }
